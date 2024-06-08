@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/notescollection.o
+release/noteslistwidget.o
+release/notesmanager.o
+release/objectsignalblocker.o
+release/qrc_Resources.o
+release/moc_mainwindow.o
+release/moc_noteslistwidget.o
+release/moc_notesmanager.o

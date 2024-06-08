@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/notescollection.o
+debug/noteslistwidget.o
+debug/notesmanager.o
+debug/objectsignalblocker.o
+debug/qrc_Resources.o
+debug/moc_mainwindow.o
+debug/moc_noteslistwidget.o
+debug/moc_notesmanager.o
